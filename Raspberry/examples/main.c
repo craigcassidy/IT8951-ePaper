@@ -169,7 +169,7 @@ int main(int argc, char *argv[])
 //     Check_FrameRate_Example(800, 600, Init_Target_Memory_Addr, BitsPerPixel_1);
 //     EPD_IT8951_Clear_Refresh(Dev_Info, Init_Target_Memory_Addr, A2_Mode);
 //     EPD_IT8951_Clear_Refresh(Dev_Info, Init_Target_Memory_Addr, GC16_Mode);
-// #endif
+ #endif
 
 
 #if(USE_Touch_Panel)
